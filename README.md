@@ -10,6 +10,7 @@ Perform data ingestion pipiline : HDFS --> MySQL --> Hive using Apache Sqoop.
 
 **It Covers **
 
+
 1. MySQL
 
 2. Sqoop (Import, Export and Sqoop Job)

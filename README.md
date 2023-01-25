@@ -1,4 +1,4 @@
-# dataIngestion_hive
+# Data Ingestion in Hive using Sqoop
 
 **Introduction**
 

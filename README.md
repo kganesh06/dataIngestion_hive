@@ -30,7 +30,7 @@ Listed the steps below to ingest data from MySQL to Hive.
 
 2. Create Staging and Actual tables in MySQL.
 
-3. Uploade the data into MySQL tables using Sqoop Export.
+3. Load the data into MySQL tables using Sqoop Export.
 
 4. Create Sqoop jobs to import data from MySQL to HDFS.
 

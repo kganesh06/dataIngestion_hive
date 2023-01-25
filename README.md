@@ -21,6 +21,7 @@ Perform data ingestion pipiline : HDFS --> MySQL --> Hive using Apache Sqoop.
 
 
 
+
 Listed the steps below to ingest data from MySQL to Hive.
 
 

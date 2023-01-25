@@ -8,7 +8,7 @@ Implemented all the steps which required to ingest the data from Relation Databa
 
 Perform data ingestion pipiline : HDFS --> MySQL --> Hive using Apache Sqoop.
 
-**It Covers **
+**It Covers**
 
 
 1. MySQL

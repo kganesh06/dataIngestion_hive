@@ -2,7 +2,7 @@
 
 **Introduction**
 
-Implemented all the steps in **hive-dataIngetion.pdf** which required to ingest the data from Relation Database to Hive.
+Implemented all the steps in **hive-dataIngetion.docx** which required to ingest the data from Relation Database to Hive.
 
 **Business Rrequirement**
 
